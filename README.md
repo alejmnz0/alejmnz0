@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Jiménez Fernández</h1>
 <h3 align="center">Full-Stack Developer with expertise in various technologies. Here's a glimpse of my skills and interests:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cpcx04&label=Profile%20views&color=0e75b6&style=flat" alt="cpcx04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cpcx04&label=Profile%20views&color=0e75b6&style=flat" alt="alejmnz0" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
